@@ -5,7 +5,8 @@ Authors :
 
 Projet réalisé dans le cadre de la formation chez Ada Tech School
 
-Objectifs du projet
+Objectifs du projet :
+
  Création d'un site de vente de meubles avec une organisation en 2 équipes (Front & Back) qui alternent à mi-projet. 
  Organisation d'équipe et définition des rôles de chacun.
  Choix de la STACK en équipe (ici le choix s'est porté sur MERN (MongoDB, Express, ReactJS et NodeJs))
@@ -16,7 +17,8 @@ Objectifs du projet
  Échange d'information entre les deux équipes pour avancer vers le même MVP. 
  Mise en place d'un code clean et transmissible pour anticiper l'alternance des équipes. 
  
-Features & réalisations
+Features & réalisations :
+
  Home page où visualiser les produits avec une option pour trier par catégories. 
  Panier pour enregistrer les produits choisis par l'utilisateur. 
  Fiche produit pour détaillé chaque meuble. 
@@ -25,7 +27,8 @@ Features & réalisations
  Personalisation du site (Logo, typographie, couleurs...)
 
 
-Pistes d'amélioration
+Pistes d'amélioration :
+
  Développer la notion d'achat online pour les utilisateurs. 
  Corriger les bugs visuels. 
  Afficher les fiches produits sous forme de PopUp.
